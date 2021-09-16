@@ -1,6 +1,8 @@
 # CPP P2P FRAMEWORK
 CPP peer networking lib or framework (this is an unfinished baseline solution)
 
+Some parts are not currently portable due to absolute paths (will fix asap)
+
 Purpose of this project:
 - Serve as a tool that will be used in a bigger project later on
 - Explore new methods of learning about computer systems
